@@ -3,7 +3,7 @@
 
 int main()
 {
-    char Arr[5] = {15,49,70,99,122};               // Declaration with Partial Inilization
+    char Arr[5] = {'S','&','$','#','G'};               // Declaration with Partial Inilization
 
     printf("\n Value of 1 Element = <%c> .",Arr[0]);
     printf("\n Value of 2 Element = {%c} .",Arr[1]);
