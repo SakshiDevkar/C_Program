@@ -5,7 +5,7 @@ int main()
 {
     int No = 0, i = 0;
 
-    printf("\n Enter a Number To Print its Reverce Table = ");
+    printf("\n Enter a Number To Print its Reverse Table = ");
     scanf("%d",&No);
 
     for(i = 10; i >= 1; i--)
